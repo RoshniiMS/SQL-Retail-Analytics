@@ -25,10 +25,16 @@ SQL-Retail-Analytics/
 
 ---
 
+## Schema Diagram
+
+![Retail ERD](schema.png)
+
 ##  Dataset
 
 The dataset contains customers, orders, payments, items, products, geolocation, and delivery details.  
 It covers **95k+ orders** across all states of Brazil from **2016–2018**.
+
+
 
 ---
 
