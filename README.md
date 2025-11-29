@@ -27,6 +27,8 @@ SQL-Retail-Analytics/
 
 ## Schema Diagram
 
+Below is the Entity Relationship Diagram (ERD) for the dataset:
+
 ![Retail ERD](schema.png)
 
 ##  Dataset
@@ -64,9 +66,9 @@ It covers **95k+ orders** across all states of Brazil from **2016–2018**.
 - Installments heavily influence high-value purchases  
 - Freight cost and delivery time rise sharply in remote states
 
-Full findings:  
-**See `07_final_insights.md`**
-
+### Full Findings
+See the complete insights report here:  
+[07_final_insights.md](./07_final_insights.md)
 ---
 
 ##  Skills Demonstrated
